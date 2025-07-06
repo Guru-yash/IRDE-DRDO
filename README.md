@@ -1,3 +1,5 @@
+# IRDE-DRDO
+
 Project Overview: The system enables autonomous payload drops based on real-time AI object detection and alignment, with full wireless control and precise servo actuation.
 
 📌 Key Features:
@@ -19,4 +21,4 @@ Project Overview: The system enables autonomous payload drops based on real-time
 🖥 CAD Design: Entire drop mechanism and payload holder designed using SolidWorks
 
 💻 Laptop: Performs image processing and decision-making using Python
-# IRDE-DRDO
+
